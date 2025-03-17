@@ -1,0 +1,20 @@
+{
+  "name": "js-assignment-03",
+  "version": "1.0.0",
+  "description": "A simple website that fetches and displays a random quote from the API.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saadiee/master-ji.git"
+  },
+  "author": "Saad Ur Rehman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saadiee/master-ji/issues"
+  },
+  "homepage": "https://github.com/Saadiee/master-ji#readme"
+}

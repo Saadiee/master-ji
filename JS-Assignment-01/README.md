@@ -17,6 +17,13 @@ This project is a **Mood Tracker Calendar** implemented in JavaScript. It allows
 5. The selected emoji will be saved and displayed on the calendar.
 6. Reload the page to see your saved moods.
 
+## Screenshots
+### Main Interface
+![Screenshot 1](./ss.PNG)
+
+## Deployment
+[Live Demo](https://mood-tracker-three-mauve.vercel.app/)
+
 ## Project Structure
 
 - **`script.js`**: Contains the JavaScript logic for generating the calendar, handling emoji selection, and managing local storage.

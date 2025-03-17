@@ -79,6 +79,7 @@ function changeEmoji(e) {
 
     // Update the date card with the selected emoji
     selectedDateCard.innerHTML = `<span class="date-number">${date}</span>${selectedEmoji}`;
+    selectedDateCard.style.backgroundColor = "#d4f8c0";
     selectedDateCard.dataset.selected = "true"; // Mark the card as selected
     if (selectedEmoji != undefined) {
       emojiPickerElement.remove(); // Remove the picker after selection

@@ -5,7 +5,7 @@
     font-weight: bold;
     color: antiquewhite;
     padding: 10px 0;
-    background-color: #c52c2c;
+    background-color: #a13b7d;
     border-radius: 4px;
 }
 
@@ -18,7 +18,7 @@ h1{
     grid-template-columns: repeat(7, 1fr);
     gap: 5px;
     padding: 10px;
-    background-color: #ffe4c6;
+    background-color: #f0f2ff;
     border-radius: 10px;
     height: 86vh;
 }
